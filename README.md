@@ -1,4 +1,4 @@
-#Blog Application
+# Blog Application
 A blog application built with an Express backend React frontend.
 
 Functionality:
