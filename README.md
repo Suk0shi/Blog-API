@@ -1,5 +1,5 @@
 # Blog Application
-A blog application built with an Express backend React frontend.
+A blog application built with an Express backend and React frontend.
 
 Functionality:
 - make, edit and delete posts and comments
